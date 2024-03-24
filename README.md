@@ -1,0 +1,1 @@
+This is a sample app which shows price card details.
